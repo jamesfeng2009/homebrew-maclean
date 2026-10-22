@@ -9,8 +9,8 @@ class Maclean < Formula
 
   desc "Free & open-source macOS disk cleaner CLI for developers (Rust)"
   homepage "https://github.com/jamesfeng2009/maclean"
-  url "https://github.com/jamesfeng2009/maclean/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "286a9a419a9d92c0cf5a7b2b64db6392b275a04857848c38dc5e5813fde7b7d1"
+  url "https://github.com/jamesfeng2009/maclean/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "71745333030ce71ae60cf3668c213d865017a1b37f5d020968adbc7c01b0948a"
   license "Apache-2.0"
 
   depends_on "rust" => :build
